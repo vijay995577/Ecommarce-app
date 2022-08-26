@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.e-com {
+    height: 12vh;
+    width: 20vh;
+}
+
+#nav-text-1 {
+    color: black;
+}
+
+#nav-text-2 {
+    color: black;
+}
+
+#nav-text-3 {
+    color: black;
+}
+
+.hed {
+    font-weight: bold;
+    color: #183b56;
+}
+
+.para {
+    color: #616c7c;
+    font-size: 15px;
+}
+
+.lorry {
+    height: 20vh;
+    width: 20vh;
+}
+
+.con {
+    text-align: center;
+}
+
+.bg-cont {
+    background-color: white;
+    height: 40vh;
+    width: 50vh;
+}
+
+.head {
+    font-size: 20px;
+
+    color: #1f2933;
+}
+
+.paraa {
+    color: #7b8794;
+}
+
+
+
+.bg-pic {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 50vh;
+    width: 80%;
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+}
+
+.head {
+    color: white;
+    font-weight: bold;
+}
+
+.para {
+    color: white;
+
+}
+
+.botn {
+    color: #ff9f00;
+    border-radius: 20px;
+}
+
+.bg-pics {
+    border-radius: 10px;
+
+    height: 50vh;
+    width: 80%;
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+}
+
+
+.sm {
+    text-align: center;
+}
+
+.image {
+    height: 50%;
+    width: 90%;
+}
+
+.bg-picer {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    height: 150%;
+
+}
+
+.head {
+    color: #ad2167;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.btst {
+    color: white;
+    font-size: 15px;
+}
+
+.spl {
+    font-weight: bold;
+}
+
+.image-sbi {
+    height: 20vh;
+    width: 80%;
+}
+
+.head {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.imagees {
+    height: 30vh;
+    width: 100%;
+
+}
+
+.sp {
+    color: #959ead;
+    font-size: 10px;
+
+}
+
+.head-2 {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 28px;
+
+}
+
+.para {
+    color: #959ead;
+    font-size: 23px;
+
+
+}
+
+.sp-2 {
+    color: #ff9f00;
+}
+
+.head {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.head-2 {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.imaget {
+    height: 25vh;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.yellow {
+    color: #ff9f00;
+    font-weight: bold;
+
+}
+
+.image-2 {
+    height: 55vh;
+    border-radius: 10px;
+    width: 90%;
+}
+
+
+
+.big {
+    background-color: #f5f7fa;
+    text-align: center;
+}
+
+.head {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.botn {
+    color: #ff9f00;
+
+}
+
+
+
+.bg-contu {
+    background-image: linear-gradient(to bottom, #19232d, #202b36);
+    height: 170vh;
+}
+
+.logo {
+    height: 20vh;
+    width: 50%;
+
+}
+
+.first {
+    text-align: center;
+}
+
+.logos {
+    background-color: #202b36;
+    height: 10%;
+    width: 15%;
+    border-radius: 40vh;
+    margin: 10px;
+
+
+}
+
+.logosm {
+    height: 10vh;
+}
+
+.align {
+
+    text-align: center;
+}
+
+.par {
+    color: #959ead;
+
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+    color: #959ead;
+}
+
+.hr-line {
+    background-color: white;
+
+}
